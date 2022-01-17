@@ -3,8 +3,8 @@
   "data1": [
   {
     "id": 1,
-    "var1": "data1 value 1",
-    "var2": "data1 value 2",
+    "var1": "PERUSAHAAN A",
+    "var2": "SUMBER A",
     "var3": "data1 value 3",
     "var4": "data1 value 4",
     "var5": "data1 value 5",
@@ -22,12 +22,12 @@
     "var17": "data1 value 17",
     "var18": "data1 value 18",
     "var19": "data1 value 19",
-    "var20": "data1 value 20"
+    "var20": "data1 value 20",
   },
     {
-    "id": 2,
-    "var1": "data1 value 1",
-    "var2": "data1 value 2",
+    "id": 1,
+    "var1": "PERUSAHAAN A",
+    "var2": "SUMBER B",
     "var3": "data1 value 3",
     "var4": "data1 value 4",
     "var5": "data1 value 5",
