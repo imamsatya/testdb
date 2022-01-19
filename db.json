@@ -5,62 +5,62 @@
     "id": 1,
     "var1": "Corp A",
     "var2": "SUMBER A",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "A A1 value 3",
+    "var4": "A A1 value 4",
+    "var5": "A A1 value 5"
   },
     {
     "id": 2,
     "var1": "Corp A",
     "var2": "SUMBER B",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "A A2 value 3",
+    "var4": "A A2 value 4",
+    "var5": "A A2 value 5"
     
   },
     {
     "id": 3,
     "var1": "Corp B",
     "var2": "Sumber CB 1",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "B B1 value 3",
+    "var4": "B B1 value 4",
+    "var5": "B B1 value 5"
   },
     
     {
     "id": 4,
     "var1": "Corp B",
     "var2": "Sumber CB 2",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "B B2 value 3",
+    "var4": "B B2 value 4",
+    "var5": "B B2 value 5"
   },
     
     {
     "id": 5,
     "var1": "Corp C",
     "var2": "Sumber CC 1",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "C C1 value 3",
+    "var4": "C C1 value 4",
+    "var5": "C C1 value 5"
   },
     
     {
     "id": 6,
     "var1": "Corp C",
     "var2": "Sumber CC 2",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "C C2 value 3",
+    "var4": "C C2 value 4",
+    "var5": "C C2 value 5"
   },
     
     {
     "id": 7,
     "var1": "Corp D",
     "var2": "Sumber 1",
-    "var3": "data1 value 3",
-    "var4": "data1 value 4",
-    "var5": "data1 value 5"
+    "var3": "D D1 value 3",
+    "var4": "D D1 value 4",
+    "var5": "D D1 value 5"
   }
    
 ],
