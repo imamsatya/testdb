@@ -110,7 +110,7 @@
     "var17": "data2 value 17",
     "var18": "data2 value 18",
     "var19": "data2 value 19",
-    "var20": "data2 value 20"
+    "var20": "x"
   },
    {
     "id": 2,
@@ -228,7 +228,7 @@
     "var17": "data3 value 17",
     "var18": "data3 value 18",
     "var19": "data3 value 19",
-    "var20": "data3 value 20"
+    "var20": "x"
   },
    {
     "id": 2,
