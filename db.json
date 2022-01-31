@@ -91,8 +91,8 @@
 "data2": [
   {
     "id": 1,
-    "var1": "data2 value 1",
-    "var2": "data2 value 2",
+    "var1": "Sumber SBR",
+    "var2": "1x",
     "var3": "data2 value 3",
     "var4": "data2 value 4",
     "var5": "data2 value 5",
@@ -209,8 +209,8 @@
  "data3": [
   {
     "id": 1,
-    "var1": "data3 value 1",
-    "var2": "data3 value 2",
+    "var1": "Sumber A",
+    "var2": "1x",
     "var3": "data3 value 3",
     "var4": "data3 value 4",
     "var5": "data3 value 5",
