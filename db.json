@@ -174,7 +174,7 @@
    {
     "id": 2,
     "var1": "data3 value 1",
-    "var2": "data3 value 2",
+    "var2": "1x",
     "var3": "data3 value 3",
     "var4": "data3 value 4",
     "var5": "data3 value 5",
@@ -200,7 +200,7 @@
    {
     "id": 4,
     "var1": "data3 value 1",
-    "var2": "data3 value 2",
+    "var2": "1x",
     "var3": "data3 value 3",
     "var4": "data3 value 4",
     "var5": "data3 value 5",
@@ -213,7 +213,7 @@
    {
     "id": 5,
     "var1": "data3 value 1",
-    "var2": "data3 value 2",
+    "var2": "1x",
     "var3": "data3 value 3",
     "var4": "data3 value 4",
     "var5": "data3 value 5",
