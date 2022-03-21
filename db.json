@@ -1,4 +1,108 @@
 {
+  "dataSBR":
+  {
+	"meta": {
+		"code": 200,
+		"status": "success",
+		"message": "Data berhasil diambil"
+	},
+	"data": {
+		"summary": {
+			"sudah_assessment": "0",
+			"belum_assessment": "2088",
+			"total_data_assessment": "2088"
+		},
+		"data_sbr": {
+			"tabel": "en",
+			"idsbr": "95703542",
+			"kode_provinsi": "18",
+			"kode_kabupaten": "06",
+			"kode_kecamatan": "042",
+			"kode_desa": "009",
+			"nama_perusahaan": "PT PENERBIT ERLANGGA",
+			"alamat": "JL ALAMSYAH RPN NO 402",
+			"rt": null,
+			"rw": null,
+			"kodepos": "34512",
+			"kegiatan_utama": "PENJUAL BUKU CETAK MERK ERLANGA",
+			"kode_kategori": "J",
+			"kbli": "58110",
+			"produk": "BUKU CETAK ERLANGGA",
+			"nama_penanggung_jawab": null,
+			"jaringanusaha": "3",
+			"total_tenaga_kerja": "6",
+			"pendapatan_per_tahun": "2500000000.00",
+			"pengeluaran": "750000000.00",
+			"telepon": [
+				{
+					"ekstensi": null,
+					"no_telepon": "08127933913"
+				},
+				{
+					"ekstensi": null,
+					"no_telepon": null
+				},
+				{
+					"ekstensi": null,
+					"no_telepon": null
+				}
+			],
+			"fax": [
+				{
+					"no_fax": null
+				},
+				{
+					"no_fax": null
+				}
+			],
+			"email": [
+				{
+					"email": null
+				},
+				{
+					"email": null
+				}
+			],
+			"website": [
+				{
+					"website": null
+				},
+				{
+					"website": null
+				}
+			]
+		},
+		"data_assessment": [
+			{
+				"id_spool": "39685",
+				"idsbr": "95703542",
+				"kode_provinsi": "18",
+				"kode_kabupaten": "06",
+				"kode_kecamatan": "042",
+				"kode_desa": "009",
+				"nama_perusahaan": "PT PENERBIT ERLANGGA",
+				"alamat": "JL ALAMSYAH RPN NO 402 RT:  RW:  KODEPOS: 34512",
+				"rt": null,
+				"rw": null,
+				"kodepos": "34512",
+				"kegiatan_utama": "PENJUAL BUKU CETAK MERK ERLANGA",
+				"kode_kategori": "J",
+				"kbli": "58110",
+				"produk": "BUKU CETAK ERLANGGA",
+				"nama_penanggung_jawab": "SUPRIYANTO",
+				"jaringanusaha": "3",
+				"total_tenaga_kerja": "6",
+				"pendapatan_per_tahun": "2500000000",
+				"pengeluaran": "750000000",
+				"no_telepon": "08127933913",
+				"ekstensi": null,
+				"no_fax": null,
+				"email": null,
+				"website": null
+			}
+		]
+	}
+},
 
   "data1": [
   {
