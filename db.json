@@ -1,6 +1,6 @@
 {
   "dataSBR":
-  {
+ {
 	"meta": {
 		"code": 200,
 		"status": "success",
@@ -95,40 +95,14 @@
 				"pendapatan_per_tahun": "2500000000",
 				"pengeluaran": "750000000",
 				"no_telepon": "08127933913",
-				"ekstensi": "021",
-				"no_fax": null,
-				"email": null,
-				"website": null
-			},
-			{
-				"id_spool": "39685",
-				"idsbr": "95703542",
-				"kode_provinsi": "18",
-				"kode_kabupaten": "06",
-				"kode_kecamatan": "042",
-				"kode_desa": "009",
-				"nama_perusahaan": "PT PENERBIT ERLANGGA",
-				"alamat": "JL ALAMSYAH RPN NO 402 RT:  RW:  KODEPOS: 34512",
-				"rt": null,
-				"rw": null,
-				"kodepos": "34512",
-				"kegiatan_utama": "PENJUAL BUKU CETAK MERK ERLANGA",
-				"kode_kategori": "J",
-				"kbli": "58110",
-				"produk": "BUKU CETAK ERLANGGA",
-				"nama_penanggung_jawab": "SUPRIYANTO",
-				"jaringanusaha": "3",
-				"total_tenaga_kerja": "6",
-				"pendapatan_per_tahun": "2500000000",
-				"pengeluaran": "750000000",
-				"no_telepon": "08127933914",
-				"ekstensi": "022",
+				"ekstensi": null,
 				"no_fax": null,
 				"email": null,
 				"website": null
 			}
 		]
 	}
+
 },
 
   "data1": [
