@@ -49,7 +49,7 @@
 			],
 			"fax": [
 				{
-					"no_fax": null
+					"no_fax": 123
 				},
 				{
 					"no_fax": null
@@ -60,12 +60,12 @@
 					"email": null
 				},
 				{
-					"email": null
+					"email": "tes@tes.tes"
 				}
 			],
 			"website": [
 				{
-					"website": null
+					"website": "tes.tes"
 				},
 				{
 					"website": null
@@ -96,9 +96,9 @@
 				"pengeluaran": "750000000",
 				"no_telepon": "08127933913",
 				"ekstensi": null,
-				"no_fax": null,
+				"no_fax": 321,
 				"email": null,
-				"website": null
+				"website": "tes.tes"
 			},
 			{
 				"id_spool": "39685-2",
@@ -122,9 +122,9 @@
 				"pendapatan_per_tahun": "2500000000-2",
 				"pengeluaran": "750000001-2",
 				"no_telepon": "08127933914-2",
-				"ekstensi": null,
+				"ekstensi": 234,
 				"no_fax": null,
-				"email": null,
+				"email": "tes@tes.tes",
 				"website": null
 			}
 		]
